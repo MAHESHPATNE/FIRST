@@ -1,0 +1,27 @@
+Problem Definition:- 
+                               
+:-To build and host web services of information management system for company fabrikam
+:-The company have 24 offices all over world
+:-And also build and host company website for their customers
+:-To accesss feedback management system all the employess require internate
+:-To build and host this information  system in public cloud Google Cloud Platform
+:- The company have Amazon Webservices Colud Subscription
+
+
+
+Functional Requirements:-
+
+1)Registration of the customers 
+2)Login of the customer
+3)Product list and product description
+4)Product review system 
+5)Product rating
+6)purchase procedure of the product with payment getway
+7)logout
+
+Non-Functional Requirements:-
+
+1) It need to be responsive
+2) It need smooth check out flow
+3) 
+
